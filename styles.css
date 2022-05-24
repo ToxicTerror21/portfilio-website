@@ -46,13 +46,11 @@ nav a {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 0 4px;
 }
 
 #projects img {
   width: 50%;
   height: 300px;
-  object-fit: cover;
   margin-top: 4px;
   border-radius: 5px;
 }
