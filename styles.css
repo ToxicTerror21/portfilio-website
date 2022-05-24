@@ -21,13 +21,14 @@ nav a {
   font-size: 1.5em;
   font-weight: bold;
   color: white;
+  text-align:center;
 }
       
       
 .b1{
  text-align:center;
     width:100%;
- 
+ font-size:3em;
   background: lightgrey;
   padding-top: 45vh;
 }
