@@ -1,7 +1,13 @@
 
     nav{
-      position:fixed;
-      width:100%:
-        background:red;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background: deepskyblue;
+}
       
-      {
+      
