@@ -49,7 +49,7 @@ nav a {
   padding: 0 4px;
 }
 
-#projects img {
+#projects label {
   width: 75%;
   height: 300px;
   object-fit: cover;
