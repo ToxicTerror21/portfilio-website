@@ -61,7 +61,7 @@ nav a {
   object-fit:cover;
 }
 a{
- border:black; 
+ background:black;
 }
 #projects button{
     position: absolute;
