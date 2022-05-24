@@ -6,8 +6,8 @@ body {
   top: 0px;
   width: 100%;
   height:10%
+   margin: 0;
   display: flex;
-      margin:0;
   flex-direction: row;
   justify-content: flex-end;
   background: deepskyblue;
@@ -30,5 +30,3 @@ nav a {
     width:100%;
   margin-top:20;
    
-}
-
