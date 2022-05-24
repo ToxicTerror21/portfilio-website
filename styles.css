@@ -55,4 +55,5 @@ nav a {
   margin-top: 8px;
   padding: 0 4px;
   border-radius: 10px;
+  object-fit:cover;
 }
