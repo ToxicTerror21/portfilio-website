@@ -63,6 +63,15 @@ nav a {
 a{
  background:black;
 }
+a img{
+  width: 35%;
+  height: 300px;
+  margin-top: 8px;
+  padding: 0 4px;
+  border-radius: 10px;
+   
+  object-fit:cover; 
+}
 #projects button{
     position: absolute;
   top: 50%;
