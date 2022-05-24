@@ -57,10 +57,12 @@ nav a {
   margin-top: 8px;
   padding: 0 4px;
   border-radius: 10px;
-   margin:0;
+   
   object-fit:cover;
 }
-
+a{
+ border:black; 
+}
 #projects button{
     position: absolute;
   top: 50%;
