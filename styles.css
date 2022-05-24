@@ -49,8 +49,8 @@ nav a {
   padding: 0 4px;
 }
 
-#projects section {
-  width: 75%;
+#projects img {
+  width: 50%;
   height: 300px;
   object-fit: cover;
   margin-top: 8px;
