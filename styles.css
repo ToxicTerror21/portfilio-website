@@ -109,3 +109,7 @@ hr{
   left:25%
   margin-top:0 auto;
 }
+.project-title {
+  font-size: 2rem;
+  padding: 2rem 0.5rem;
+}
