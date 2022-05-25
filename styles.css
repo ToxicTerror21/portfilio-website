@@ -95,7 +95,7 @@ nav a {
 }
 
 .code {
-  color: var(--main-gray);
+  color:white;
   transition: color 0.3s ease-out;
 }
 
