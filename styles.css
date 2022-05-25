@@ -76,9 +76,7 @@ nav a {
   margin-bottom: 6rem;
   
 }
-a{
-  background:red;
-}
+
 
 @media (max-width: 30.625em) {
   .projects-section {
