@@ -61,18 +61,15 @@ nav a {
 }
 #kk{
  background:black;
-  margin-right:8px;
+
 }
 #kk img{
   width: 100%;
   height: 300px;
   margin-top: 8px;
-
   padding: 0 4px;
   border-radius: 10px;
-    
   object-fit:cover; 
-   margin-right:20px;
 }
 #projects button{
     position: absolute;
