@@ -138,3 +138,9 @@ a{
    object-fit:cover;
 }
 
+#lang{
+  display:block;
+}
+#lang ul{
+  text-align:center;}
+
