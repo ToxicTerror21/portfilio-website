@@ -131,7 +131,7 @@ hr{
   display:flex;
   
 }
-#socials social{
+a social{
  width:25% 
    object-fit:cover;
 }
