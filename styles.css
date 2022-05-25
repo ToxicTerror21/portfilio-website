@@ -128,8 +128,12 @@ hr{
 }
 
 #socials{
-  display:flex;
-  width:100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 4px;
 }
 a{
   background:blue;
