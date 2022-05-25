@@ -131,6 +131,9 @@ hr{
   display:flex;
   
 }
+a{
+  background:blue;
+}
 a social{
  width:25% 
    object-fit:cover;
