@@ -85,7 +85,6 @@ nav a {
   cursor: pointer;
   border-radius: 5px;
 }
-h3{
-  position:absolute;
-  padding-bottom:10px;
+h2{
+  text-align:center;
 }
