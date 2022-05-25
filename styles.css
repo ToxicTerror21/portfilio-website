@@ -128,7 +128,7 @@ hr{
 }
 
 #socials{
- display:block;
+ display:incline-block;
 }
 a{
   background:blue;
