@@ -85,3 +85,6 @@ nav a {
   cursor: pointer;
   border-radius: 5px;
 }
+h3{
+  position:absolute;
+}
