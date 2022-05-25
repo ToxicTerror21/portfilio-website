@@ -129,13 +129,13 @@ hr{
 
 #socials{
   display:flex;
-  
+  width:100%;
 }
 a{
   background:blue;
   
 }
-a social{
+#socials social{
  width:25% ;
    object-fit:cover;
 }
