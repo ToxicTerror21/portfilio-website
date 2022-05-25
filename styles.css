@@ -71,9 +71,9 @@ nav a {
   border-radius: 10px;
   object-fit:cover; 
 }
-#projects button{
+#kk button{
     position: absolute;
- height:100%;
+ top:50%
  
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
